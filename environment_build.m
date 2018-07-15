@@ -1,4 +1,4 @@
-function faster_rcnn_build()
+function environment_build()
 % faster_rcnn_build()
 % --------------------------------------------------------
 % Faster R-CNN
